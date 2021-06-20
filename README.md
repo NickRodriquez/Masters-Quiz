@@ -22,3 +22,8 @@ WHEN all questions are answered or the timer reaches 0
 THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
+
+
+# Help
+
+  Met with a tutor to get help where i needed to and made the correct adjustments within the Javascript that I was unable to figure out on my own. Tutor helped get things laid out properly and taught me how to make sure things are lined up for an easy visual when going through the code. 
