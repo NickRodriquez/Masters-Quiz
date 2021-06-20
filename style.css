@@ -1,0 +1,128 @@
+body{
+    margin: 20px!important;
+ }
+#questions{
+    padding: 10px;
+    margin: 15px;
+}
+
+h1{
+    font-family: sans-serif;
+    margin-top: 10px;
+    color: #000000;
+}
+
+input{
+    text-align:right;
+}
+
+#Circle {
+    width: 100px;
+    height: 30px;
+    display: flex;
+    justify-content:center;
+    align-items:flex-end;
+    max-width: 100px;
+    margin: 0 auto;
+  }
+
+
+#clock{
+    font-family: sans-serif;
+    background-color: #000000;
+    color:  rgb(255, 255, 255);
+    font-size:small;
+    text-shadow: 5px 5px rgb(255, 255, 255);
+    text-align:justify;
+}
+#masterquiz {
+    display: none;
+    text-align: center;
+}
+
+#result {
+    display: none;
+}
+
+#gameover {
+    text-align: center;
+    display: none;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+#finishGameBtns{
+    display: none;
+}
+
+#GOAT{
+    height: 2px;
+    border:ghostwhite
+}
+
+#Champions{
+    display: none;
+    width: 300%;
+    border:mintcream;
+    border-color:  rgb(241, 33, 33);
+    border-bottom-style:dotted;
+    padding-bottom: 3px;
+    background: rgb(0, 0, 0);
+}
+
+#VeryBest{
+    display:flex;
+    justify-content: space-around;
+    border-bottom-style: dotted;
+    margin-bottom: 2px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(241, 33, 33);
+    font-family:cursive;
+}
+
+
+#initials{
+    margin: 10px;
+    height: 10px;
+    border-style: dotted;
+}
+
+#Nickname{
+    display: inline-block;
+    padding-left: 10px;
+    font-family: cursive;
+    font-weight: bold;
+    border-style: dotted;
+}
+
+button {
+    display: inline-block;
+    font-family: cursive;
+    background-color: #080808;
+    border-radius: 10px;
+    border: 3px double  rgb(255, 255, 255);
+    color:  rgb(241, 33, 33);
+    text-align: center;
+    font-size: 25px;
+    padding: 25px;
+    width: 200px;
+    margin-top: 3px;
+    border-style: dotted;
+  }
+
+#startAgain{
+    display:flexbox;
+    flex-direction:row;
+    align-items:inherit;
+    border-style: dotted;
+    padding: -5px;
+    
+}
+
+h3{
+    font-family: sans-serif;
+    margin-top: 10px;
+    color: #000000;
+}
+
